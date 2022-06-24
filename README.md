@@ -2,7 +2,7 @@
 
 
 ## Just a little bit about me :point_down:
- I'm a software engineering student building who developes small web services with nodeJS technology 	:computer:.
+ I'm a software engineering student who developes small web services with nodeJS technology 	:computer:.
  
  
  I am from Belém do Pará :earth_americas: and I am 22 years old.
@@ -37,6 +37,10 @@
 ## Academic Formation :man_student:
 
 I am studying the second period of the software engineering course at the **Estácio de Sá university**.
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Santos-Web-Developer&layout=compact&theme=dracula)
+
+
 
 ## How I got to know the world of programming and web development.
 When I was 17, I dreamed of being a tony stark (marvel's Iron Man) who created his own gear and trinkets. This led me to several google searches such as:
